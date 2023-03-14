@@ -1,4 +1,4 @@
-# Project 2 - Group # 4
+# Final Year thesis project
 
 ## Predicting stock market movements using sentiment analysis as a tool
 
